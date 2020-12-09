@@ -12,6 +12,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "watch": "react-scripts start -w",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
